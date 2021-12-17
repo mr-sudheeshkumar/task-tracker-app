@@ -16,4 +16,4 @@ The Goal of this app is to develop a task tracker app with the help of react.
 
 
 ### **SANDBOX LINK**
-- [Click Here](https://tze8m.csb.app/)
+- [Click here to visit the hosted web app.](https://tze8m.csb.app/)
